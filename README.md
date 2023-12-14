@@ -1,0 +1,1 @@
+I wrote this script to automatically run daily to alert for any changes to the CRON jobs.  Daily email is sent to the admin at 8AM stating the status of the CRON job files as they currently are, compared to how they were at 8AM the previous day.
